@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    background-color: #071222 !important;
+    width: 100vw;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 48px;
+    stroke: 1px solid black;
+    color: aliceblue;
+    text-align: center;
+}
